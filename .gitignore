@@ -1,0 +1,4 @@
+.git
+.venv
+poetry.lock
+.ipynb_checkpoints
